@@ -14,3 +14,19 @@
 /Users/admin/Desktop/MobLab/backend/src/Application/obj/Debug/net8.0/Application.pdb
 /Users/admin/Desktop/MobLab/backend/src/Application/obj/Debug/net8.0/ref/Application.dll
 /Users/admin/Desktop/MobLab/backend/src/Application/obj/Debug/net8.0/Application.sourcelink.json
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\bin\Debug\net8.0\Application.dll
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\bin\Debug\net8.0\Core.dll
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\bin\Debug\net8.0\Core.pdb
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\obj\Debug\net8.0\Application.dll
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\lenovo idea\Desktop\moblabprojekat\backend\src\Application\obj\Debug\net8.0\ref\Application.dll

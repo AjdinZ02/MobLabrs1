@@ -2,14 +2,16 @@ import { renderProducts } from './pages/ProductsPage';
 import { renderContact } from './pages/ContactPage';
 import { renderBrands } from './pages/BrandsPage';
 import { renderProductsAdmin } from './pages/ProductsAdminPage';
+import {renderReviewsPage} from './pages/ReviewsPage';
 
-type RouteKey = '/' | '/proizvodi' | '/kontakt' | '/brendovi' | '/proizvodi-admin';
+type RouteKey = '/' | '/proizvodi' | '/kontakt' | '/brendovi' | '/proizvodi-admin' | '/recenzije';
 
 function getRouteFromHash(): RouteKey {
   const path = location.hash.replace('#', '').trim() || '/';
   if (path.startsWith('/proizvodi-admin')) return '/proizvodi-admin';
   if (path.startsWith('/brendovi')) return '/brendovi';
   if (path.startsWith('/kontakt')) return '/kontakt';
+  if (path.startsWith('/recenzije')) return '/recenzije';
   if (path.startsWith('/proizvodi') || path === '/') return '/proizvodi';
   return '/proizvodi';
 }
@@ -28,6 +30,7 @@ export function setupApp(root: HTMLElement): void {
           <a href="#/brendovi" class="nav-link" data-link="/brendovi">Brendovi</a>
           <a href="#/proizvodi-admin" class="nav-link" data-link="/proizvodi-admin">Proizvodi (Admin)</a>
           <a href="#/kontakt" class="nav-link" data-link="/kontakt">Kontakt</a>
+          <a href="#/recenzije" class="nav-link" data-link="/recenzije">Recenzije</a>
         </nav>
       </div>
     </header>
@@ -49,6 +52,10 @@ export function setupApp(root: HTMLElement): void {
     if (route === '/proizvodi') return renderProducts(container);
     if (route === '/brendovi') return renderBrands(container);
     if (route === '/kontakt') return renderContact(container);
+    if(route === '/recenzije'){
+      renderReviewsPage(container);
+      return;
+    }
     if (route === '/proizvodi-admin') return renderProductsAdmin(container);
     return renderProducts(container);
   };
