@@ -1,0 +1,21 @@
+
+> moblab-frontend@0.0.1 dev
+> vite
+
+
+  VITE v5.4.21  ready in 258 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+10:37:17 AM [vite] hmr update /src/presentation/styles/main.css
+10:38:06 AM [vite] page reload src/presentation/app.ts
+10:38:30 AM [vite] page reload src/presentation/pages/ContactPage.ts
+10:41:48 AM [vite] hmr update /src/presentation/styles/main.css
+10:41:48 AM [vite] page reload src/presentation/app.ts
+10:54:40 AM [vite] page reload src/presentation/app.ts
+10:59:49 AM [vite] page reload src/presentation/pages/ProductsPage.ts
+10:59:56 AM [vite] page reload src/presentation/pages/ProductsAdminPage.ts
+11:00:16 AM [vite] page reload src/presentation/pages/ProductsPage.ts
+11:00:16 AM [vite] page reload src/presentation/pages/ProductsAdminPage.ts
+11:00:55 AM [vite] page reload src/presentation/pages/ProductsAdminPage.ts
+11:23:02 AM [vite] page reload src/presentation/pages/ProductsPage.ts
